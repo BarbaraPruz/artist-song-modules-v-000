@@ -38,3 +38,4 @@ class Song
     @@songs
   end
 end
+
